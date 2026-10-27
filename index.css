@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    font-size: 18px; /* Enhanced base font size for optimal readability */
+  }
+  
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    color: #0f172a;
+    line-height: 1.6;
+    background-color: #f8fafc;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .font-armenian {
+    font-family: 'Noto Sans Armenian', 'Plus Jakarta Sans', sans-serif;
+    line-height: 1.65;
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "¡Preparado para el Examen! Lengua y Literatura",
+  "description": "Entrenador interactivo para el examen de Lengua Castellana y Literatura (1.º de ESO) con explicaciones, traducción al armenio por frase, análisis oracional y simulacros oficiales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
